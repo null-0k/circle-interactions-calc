@@ -1,1 +1,23 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet" viewBox="0 0 512 512" width="512" height="512">
+    <g transform="translate(10, 10)">
+        <g fill="none" stroke="#000">
+            <circle cx="100" cy="100" r="100"/>
+            <circle cx="225" cy="100" r="75"/>
+            <rect x="175" y="95" width="5" height="5"/>
+            <path d="M180 40 100 100 225 100 180 40 180 160z"/>
+            <path d="M100 100 100 220 225 220 225 100" stroke-dasharray="3"/>
+        </g>
+        <g font-family="Verdana" font-size="10">
+            <text x="85"  y="110"> C1 </text>
+            <text x="227" y="110"> C2 </text>
+            <text x="135" y="60" > r1 </text>
+            <text x="200" y="60" > r2 </text>
+            <text x="110" y="100"> θ  </text>
+            <text x="178" y="35" > P  </text>
+            <text x="176" y="172"> Q  </text>
+            <text x="183" y="77" > h  </text>
+            <text x="162" y="230"> d  </text>
+            <text x="140" y="110"> a  </text>
+        </g>
+    </g>
+</svg>
