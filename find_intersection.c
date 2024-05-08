@@ -40,7 +40,7 @@ void findIntersection(Circle C1, Circle C2) {
         return;
     }
     
-    double h = sqrt(C2.r * C2.r - a * a);
+    double h = sqrt(C1.r * C1.r - a * a);
     double px = px0 - h * ny;
     double py = py0 + h * nx;
     double qx = px0 + h * ny;
