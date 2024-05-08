@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet" viewBox="0 0 512 512" width="512" height="512">
-    <g transform="translate(10, 10)">
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet" viewBox="0 0 340 340">
+    <rect width="340" height="340" fill="#fff"/>
+    <g transform="translate(20, 60)">
         <g fill="none" stroke="#000">
             <circle cx="100" cy="100" r="100"/>
             <circle cx="225" cy="100" r="75"/>
