@@ -17,7 +17,7 @@ void findIntersection(Circle C1, Circle C2) {
     double addR = C1.r + C2.r;
     double subR = fabs(C1.r - C2.r);
 
-    if(dist > addR || dist < subR || dist == 0 && C1.r == C2.r){
+    if(dist > addR || dist < subR || (dist == 0 && C1.r == C2.r)){
         printf("\nSorry, no intersection found.");
         return;
     } 
